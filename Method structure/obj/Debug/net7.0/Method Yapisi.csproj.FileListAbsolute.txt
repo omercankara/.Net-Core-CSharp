@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\ASP\Method Yapisi\bin\Debug\net7.0\Method Yapisi.exe
+C:\Users\omerc\Desktop\ASP\Method Yapisi\bin\Debug\net7.0\Method Yapisi.deps.json
+C:\Users\omerc\Desktop\ASP\Method Yapisi\bin\Debug\net7.0\Method Yapisi.runtimeconfig.json
+C:\Users\omerc\Desktop\ASP\Method Yapisi\bin\Debug\net7.0\Method Yapisi.dll
+C:\Users\omerc\Desktop\ASP\Method Yapisi\bin\Debug\net7.0\Method Yapisi.pdb
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\Method Yapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\Method Yapisi.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\Method Yapisi.AssemblyInfo.cs
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\Method Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\Method Yapisi.dll
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\refint\Method Yapisi.dll
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\Method Yapisi.pdb
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\Method Yapisi.genruntimeconfig.cache
+C:\Users\omerc\Desktop\ASP\Method Yapisi\obj\Debug\net7.0\ref\Method Yapisi.dll

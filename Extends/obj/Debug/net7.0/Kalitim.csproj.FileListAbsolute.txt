@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\Kalitim\bin\Debug\net7.0\Kalitim.exe
+C:\Users\omerc\Desktop\C#\Kalitim\bin\Debug\net7.0\Kalitim.deps.json
+C:\Users\omerc\Desktop\C#\Kalitim\bin\Debug\net7.0\Kalitim.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\Kalitim\bin\Debug\net7.0\Kalitim.dll
+C:\Users\omerc\Desktop\C#\Kalitim\bin\Debug\net7.0\Kalitim.pdb
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\Kalitim.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\Kalitim.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\Kalitim.dll
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\refint\Kalitim.dll
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\Kalitim.pdb
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\Kalitim.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\Kalitim\obj\Debug\net7.0\ref\Kalitim.dll

@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\bin\Debug\net7.0\Hata_Firlatma.exe
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\bin\Debug\net7.0\Hata_Firlatma.deps.json
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\bin\Debug\net7.0\Hata_Firlatma.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\bin\Debug\net7.0\Hata_Firlatma.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\bin\Debug\net7.0\Hata_Firlatma.pdb
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\Hata_Firlatma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\Hata_Firlatma.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\Hata_Firlatma.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\Hata_Firlatma.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\Hata_Firlatma.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\refint\Hata_Firlatma.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\Hata_Firlatma.pdb
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\Hata_Firlatma.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_Firlatma\obj\Debug\net7.0\ref\Hata_Firlatma.dll

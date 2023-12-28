@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\bin\Debug\net7.0\ozel_hata.exe
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\bin\Debug\net7.0\ozel_hata.deps.json
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\bin\Debug\net7.0\ozel_hata.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\bin\Debug\net7.0\ozel_hata.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\bin\Debug\net7.0\ozel_hata.pdb
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ozel_hata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ozel_hata.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ozel_hata.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ozel_hata.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ozel_hata.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\refint\ozel_hata.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ozel_hata.pdb
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ozel_hata.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\ozel_hata\obj\Debug\net7.0\ref\ozel_hata.dll

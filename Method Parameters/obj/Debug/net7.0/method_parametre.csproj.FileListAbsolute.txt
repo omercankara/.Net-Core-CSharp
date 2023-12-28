@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\method_parametre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\method_parametre.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\method_parametre.AssemblyInfo.cs
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\method_parametre.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\ASP\method_parametre\bin\Debug\net7.0\method_parametre.exe
+C:\Users\omerc\Desktop\ASP\method_parametre\bin\Debug\net7.0\method_parametre.deps.json
+C:\Users\omerc\Desktop\ASP\method_parametre\bin\Debug\net7.0\method_parametre.runtimeconfig.json
+C:\Users\omerc\Desktop\ASP\method_parametre\bin\Debug\net7.0\method_parametre.dll
+C:\Users\omerc\Desktop\ASP\method_parametre\bin\Debug\net7.0\method_parametre.pdb
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\method_parametre.dll
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\refint\method_parametre.dll
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\method_parametre.pdb
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\method_parametre.genruntimeconfig.cache
+C:\Users\omerc\Desktop\ASP\method_parametre\obj\Debug\net7.0\ref\method_parametre.dll

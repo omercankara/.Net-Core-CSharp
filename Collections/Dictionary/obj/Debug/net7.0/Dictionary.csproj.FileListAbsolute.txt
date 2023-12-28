@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\Users\omerc\Desktop\C#\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\Users\omerc\Desktop\C#\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\Users\omerc\Desktop\C#\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll

@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\interface\bin\Debug\net7.0\interface.exe
+C:\Users\omerc\Desktop\C#\interface\bin\Debug\net7.0\interface.deps.json
+C:\Users\omerc\Desktop\C#\interface\bin\Debug\net7.0\interface.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\interface\bin\Debug\net7.0\interface.dll
+C:\Users\omerc\Desktop\C#\interface\bin\Debug\net7.0\interface.pdb
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\interface.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\interface.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\interface.dll
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\refint\interface.dll
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\interface.pdb
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\interface.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\interface\obj\Debug\net7.0\ref\interface.dll

@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\Static Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\Static Class.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\Static Class.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\Static Class.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\Static Class\bin\Debug\net7.0\Static Class.exe
+C:\Users\omerc\Desktop\C#\Static Class\bin\Debug\net7.0\Static Class.deps.json
+C:\Users\omerc\Desktop\C#\Static Class\bin\Debug\net7.0\Static Class.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\Static Class\bin\Debug\net7.0\Static Class.dll
+C:\Users\omerc\Desktop\C#\Static Class\bin\Debug\net7.0\Static Class.pdb
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\Static Class.dll
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\refint\Static Class.dll
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\Static Class.pdb
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\Static Class.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\Static Class\obj\Debug\net7.0\ref\Static Class.dll

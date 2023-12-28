@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\Abstract\bin\Debug\net7.0\Abstract.exe
+C:\Users\omerc\Desktop\C#\Abstract\bin\Debug\net7.0\Abstract.deps.json
+C:\Users\omerc\Desktop\C#\Abstract\bin\Debug\net7.0\Abstract.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\Abstract\bin\Debug\net7.0\Abstract.dll
+C:\Users\omerc\Desktop\C#\Abstract\bin\Debug\net7.0\Abstract.pdb
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\Abstract.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\Abstract.dll
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\refint\Abstract.dll
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\Abstract.pdb
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\Abstract.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\Abstract\obj\Debug\net7.0\ref\Abstract.dll

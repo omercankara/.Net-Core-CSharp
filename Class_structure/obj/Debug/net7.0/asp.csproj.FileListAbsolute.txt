@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\asp\bin\Debug\net7.0\asp.exe
+C:\Users\omerc\Desktop\asp\bin\Debug\net7.0\asp.deps.json
+C:\Users\omerc\Desktop\asp\bin\Debug\net7.0\asp.runtimeconfig.json
+C:\Users\omerc\Desktop\asp\bin\Debug\net7.0\asp.dll
+C:\Users\omerc\Desktop\asp\bin\Debug\net7.0\asp.pdb
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\asp.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\asp.AssemblyInfo.cs
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\asp.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\asp.dll
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\refint\asp.dll
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\asp.pdb
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\asp.genruntimeconfig.cache
+C:\Users\omerc\Desktop\asp\obj\Debug\net7.0\ref\asp.dll

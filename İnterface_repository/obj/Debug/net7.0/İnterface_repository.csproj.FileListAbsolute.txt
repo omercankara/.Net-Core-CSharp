@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\İnterface_repository\bin\Debug\net7.0\İnterface_repository.exe
+C:\Users\omerc\Desktop\C#\İnterface_repository\bin\Debug\net7.0\İnterface_repository.deps.json
+C:\Users\omerc\Desktop\C#\İnterface_repository\bin\Debug\net7.0\İnterface_repository.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\İnterface_repository\bin\Debug\net7.0\İnterface_repository.dll
+C:\Users\omerc\Desktop\C#\İnterface_repository\bin\Debug\net7.0\İnterface_repository.pdb
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\İnterface_repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\İnterface_repository.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\İnterface_repository.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\İnterface_repository.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\İnterface_repository.dll
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\refint\İnterface_repository.dll
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\İnterface_repository.pdb
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\İnterface_repository.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\İnterface_repository\obj\Debug\net7.0\ref\İnterface_repository.dll

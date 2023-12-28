@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\bin\Debug\net7.0\Class Ornek_2.exe
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\bin\Debug\net7.0\Class Ornek_2.deps.json
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\bin\Debug\net7.0\Class Ornek_2.runtimeconfig.json
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\bin\Debug\net7.0\Class Ornek_2.dll
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\bin\Debug\net7.0\Class Ornek_2.pdb
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\Class Ornek_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\Class Ornek_2.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\Class Ornek_2.AssemblyInfo.cs
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\Class Ornek_2.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\Class Ornek_2.dll
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\refint\Class Ornek_2.dll
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\Class Ornek_2.pdb
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\Class Ornek_2.genruntimeconfig.cache
+C:\Users\omerc\Desktop\ASP\Class Ornek_2\obj\Debug\net7.0\ref\Class Ornek_2.dll

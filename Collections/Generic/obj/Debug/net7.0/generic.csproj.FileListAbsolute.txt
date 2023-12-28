@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\generic\bin\Debug\net7.0\generic.exe
+C:\Users\omerc\Desktop\C#\generic\bin\Debug\net7.0\generic.deps.json
+C:\Users\omerc\Desktop\C#\generic\bin\Debug\net7.0\generic.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\generic\bin\Debug\net7.0\generic.dll
+C:\Users\omerc\Desktop\C#\generic\bin\Debug\net7.0\generic.pdb
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\generic.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\generic.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\generic.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\generic.dll
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\refint\generic.dll
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\generic.pdb
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\generic.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\generic\obj\Debug\net7.0\ref\generic.dll

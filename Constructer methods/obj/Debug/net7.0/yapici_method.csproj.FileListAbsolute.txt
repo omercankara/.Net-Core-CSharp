@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\ASP\yapici_method\bin\Debug\net7.0\yapici_method.exe
+C:\Users\omerc\Desktop\ASP\yapici_method\bin\Debug\net7.0\yapici_method.deps.json
+C:\Users\omerc\Desktop\ASP\yapici_method\bin\Debug\net7.0\yapici_method.runtimeconfig.json
+C:\Users\omerc\Desktop\ASP\yapici_method\bin\Debug\net7.0\yapici_method.dll
+C:\Users\omerc\Desktop\ASP\yapici_method\bin\Debug\net7.0\yapici_method.pdb
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\yapici_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\yapici_method.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\yapici_method.AssemblyInfo.cs
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\yapici_method.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\yapici_method.dll
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\refint\yapici_method.dll
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\yapici_method.pdb
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\yapici_method.genruntimeconfig.cache
+C:\Users\omerc\Desktop\ASP\yapici_method\obj\Debug\net7.0\ref\yapici_method.dll

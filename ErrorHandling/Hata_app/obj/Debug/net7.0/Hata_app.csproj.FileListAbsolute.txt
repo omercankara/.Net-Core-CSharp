@@ -1,0 +1,14 @@
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\bin\Debug\net7.0\Hata_app.exe
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\bin\Debug\net7.0\Hata_app.deps.json
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\bin\Debug\net7.0\Hata_app.runtimeconfig.json
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\bin\Debug\net7.0\Hata_app.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\bin\Debug\net7.0\Hata_app.pdb
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\Hata_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\Hata_app.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\Hata_app.AssemblyInfo.cs
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\Hata_app.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\Hata_app.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\refint\Hata_app.dll
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\Hata_app.pdb
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\Hata_app.genruntimeconfig.cache
+C:\Users\omerc\Desktop\C#\ErrorHandling\Hata_app\obj\Debug\net7.0\ref\Hata_app.dll
